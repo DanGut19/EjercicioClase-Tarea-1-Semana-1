@@ -12,3 +12,4 @@ C:\Users\lenovo\source\repos\EjercicioClase Tarea 1 Semana 1\EjercicioClase Tare
 C:\Users\lenovo\source\repos\EjercicioClase Tarea 1 Semana 1\EjercicioClase Tarea 1 Semana 1\obj\Debug\net8.0\EjercicioClase Tarea 1 Semana 1.pdb
 C:\Users\lenovo\source\repos\EjercicioClase Tarea 1 Semana 1\EjercicioClase Tarea 1 Semana 1\obj\Debug\net8.0\EjercicioClase Tarea 1 Semana 1.genruntimeconfig.cache
 C:\Users\lenovo\source\repos\EjercicioClase Tarea 1 Semana 1\EjercicioClase Tarea 1 Semana 1\obj\Debug\net8.0\ref\EjercicioClase Tarea 1 Semana 1.dll
+C:\Users\lenovo\source\repos\EjercicioClase Tarea 1 Semana 1\EjercicioClase Tarea 1 Semana 1\obj\Debug\net8.0\EjercicioClase Tarea 1 Semana 1.sourcelink.json

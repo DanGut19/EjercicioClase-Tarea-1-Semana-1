@@ -15,3 +15,25 @@ SuperPoder superPoder = new SuperPoder();
 /*superPoder.nombre = "super fuerza";*/
 superPoder.descripcion = "utiliza herramientas";
 superPoder.Imprimir();
+
+SuperHeroe superHeroe2 = new SuperHeroe();
+superHeroe.nombre = "Robin";
+superHeroe.identidadsecreta = "damian wayne";
+superHeroe.ciudad = "ciudad gothica";
+superHeroe.superpoder = "no tiene";
+superHeroe.Imprimir();
+SuperPoder superPoder2 = new SuperPoder();
+/*superPoder.nombre = "super fuerza";*/
+superPoder.descripcion = "utiliza herramientas";
+superPoder.Imprimir();
+
+SuperHeroe superHeroe3 = new SuperHeroe();
+superHeroe.nombre = "batgirl";
+superHeroe.identidadsecreta = "Barbara Gordon";
+superHeroe.ciudad = "ciudad gothica";
+superHeroe.superpoder = "no tiene";
+superHeroe.Imprimir();
+SuperPoder superPoder3 = new SuperPoder();
+/*superPoder.nombre = "super fuerza";*/
+superPoder.descripcion = "utiliza herramientas";
+superPoder.Imprimir();
